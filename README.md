@@ -1,4 +1,4 @@
-# 🤖 ChatBot
+# ChatBot
 Atividade Final de Python - Construir um ChatBot para atendimento ao cliente
 
  
