@@ -1,0 +1,44 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+
+#chat {
+    width: 300px; 
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 10px; 
+    text-align: left; 
+}
+
+#resp {
+    display: flex; /* Torna os elementos filhos flexíveis */
+    align-items: center; /* Alinha verticalmente ao centro */
+  }
+
+#resposta {
+    flex: 1; /* Cresce para ocupar o espaço restante */
+}
+
+#botaoResposta {
+    visibility: hidden;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px; /* Adiciona margem à esquerda para separar o botão */
+}
+
+#pergunta {
+    display: block;
+    margin: 10px auto; 
+}
+
+#perguntar {
+    display: block;
+    margin: 10px auto; 
+}
