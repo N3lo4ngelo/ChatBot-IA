@@ -5,7 +5,6 @@ Atividade Final de Python - Construir um ChatBot para atendimento ao cliente
 
 ## 👨🏽‍💻**Introdução:**
 
- 
 
 `Sistema ChatBot para interação com o usuário, criado em Python e utilizando outras linguagens como JavaScript, HTML, CSS e PHP.
 Será apresentada de forma geral nesta documentação todas as tecnologias utilizadas, etapas para acessar este projeto, seus objetivos e seu funcionamento final.` <br>
@@ -27,14 +26,14 @@ Este projeto utiliza-se de um pequeno conjuntos de dados de linguagem natural pa
 
  
 
-# PYTHON
-  # Flask
-  # Nltk
-  # Gtts
-# HTML
-# CSS
-# JAVASCRIPT
-# PHP
+- PYTHON
+  - Flask
+  - Nltk
+  - Gtts
+- HTML
+- CSS
+- JAVASCRIPT
+- PHP
 
  
 
@@ -99,7 +98,7 @@ Para acessar e utilizar o ChatBot, siga as instruções abaixo:
  
 
   ```
-http://localhost/ChatBot/index.php
+  http://localhost/ChatBot/index.php
    ```
 
 - Agora é possível testar as respostas do chatbot com perguntas como 'Oi', 'Tudo bem?', 'Piada', 'Tchau' ou outras variantes de perguntas.
